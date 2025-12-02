@@ -1,13 +1,12 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Qual è il divario occupazionale tra persone con e senza disabilità?",
+  "subtitle": "Nel 2024, il divario occupazionale tra cittadini dell'UE con e senza disabilità ammonterà al 24%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Il divario occupazionale tra uomini e donne nella popolazione complessiva e nella popolazione complessiva e nelle persone con disabilità si riferisce alla fascia di età 20-64 anni. I dati per il Lussemburgo risalgono al 2022.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
   "legend1": "Nessun dato disponibile",
+  "customUnitLabel": "divario occupazionale tra persone con e senza disabilità",
   "tooltipExtraInfoLabel": "clicca qui"
 }
