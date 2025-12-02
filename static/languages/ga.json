@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cad é an bhearna fostaíochta idir daoine faoi mhíchumas agus daoine gan mhíchumas?",
+  "subtitle": "Sa bhliain 2024, is ionann an bhearna fostaíochta idir saoránaigh an AE faoi mhíchumas agus iad siúd nach bhfuil agus 24%.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Tagraíonn an bhearna fostaíochta idir fir agus mná sa daonra iomlán agus sa daonra iomlán agus daoine faoi mhíchumas don aoisghrúpa 20-64. Is ón mbliain 2022 atá na sonraí do Lucsamburg.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat (2024)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "bearna fostaíochta idir daoine faoi mhíchumas agus daoine gan mhíchumas",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
