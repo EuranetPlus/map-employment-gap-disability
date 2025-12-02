@@ -1,13 +1,12 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "What is the employment gap between people with and without disabilities?",
+  "subtitle": "In 2024, the employment gap between EU citizens with and without disabilities amounts to 24%.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "The employment gap between men and women in the overall population and the overall population and people with disabilities refers to the age group 20-64. The data for Luxembourg is from 2022.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
   "legend1": "No data available",
+  "customUnitLabel": "employment gap between people with and without disabilities",
   "tooltipExtraInfoLabel": "Click here"
 }
