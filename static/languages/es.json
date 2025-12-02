@@ -1,13 +1,12 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Cuál es la brecha laboral entre personas con y sin discapacidad?",
+  "subtitle": "En 2024, la brecha de empleo entre ciudadanos de la UE con y sin discapacidad ascenderá al 24%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "La brecha de empleo entre hombres y mujeres en la población general y entre la población general y las personas con discapacidad se refiere al grupo de edad de 20 a 64 años. Los datos de Luxemburgo corresponden a 2022.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
   "legend1": "No hay datos disponibles",
+  "customUnitLabel": "Brecha de empleo entre personas con y sin discapacidad",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
