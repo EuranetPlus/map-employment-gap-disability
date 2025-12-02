@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie groß ist die Beschäftigungslücke zwischen Menschen mit und ohne Behinderung?",
+  "subtitle": "Im Jahr 2024 wird die Beschäftigungslücke zwischen EU-Bürgern mit und ohne Behinderung 24 % betragen.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Die Beschäftigungslücke zwischen Männern und Frauen in der Gesamtbevölkerung sowie in der Gesamtbevölkerung und Menschen mit Behinderungen bezieht sich auf die Altersgruppe der 20- bis 64-Jährigen. Die Daten für Luxemburg stammen aus dem Jahr 2022.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Eurostat (2024)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
+  "customUnitLabel": "Beschäftigungslücke zwischen Menschen mit und ohne Behinderung",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
