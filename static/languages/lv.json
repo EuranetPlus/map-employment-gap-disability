@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Kāda ir nodarbinātības atšķirība starp cilvēkiem ar invaliditāti un cilvēkiem bez invaliditātes?",
+  "subtitle": "2024. gadā nodarbinātības līmeņa atšķirība starp ES pilsoņiem ar invaliditāti un bez tās sasniedza 24 %.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Nodarbinātības atšķirība starp vīriešiem un sievietēm kopējā iedzīvotāju skaitā un kopējā iedzīvotāju skaitā, kā arī cilvēku ar invaliditāti vidū attiecas uz vecuma grupu no 20 līdz 64 gadiem. Dati par Luksemburgu ir no 2022. gada.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "nodarbinātības atšķirības starp cilvēkiem ar invaliditāti un bez tās",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
