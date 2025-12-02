@@ -1,13 +1,12 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Kakšna je razlika v zaposlenosti med invalidi in invalidi?",
+  "subtitle": "Leta 2024 je razlika v zaposlenosti med državljani EU z invalidnostjo in brez nje znašala 24 %.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Razlika v zaposlenosti med moškimi in ženskami v celotnem prebivalstvu ter v celotnem prebivalstvu in invalidih se nanaša na starostno skupino 20–64 let. Podatki za Luksemburg so iz leta 2022.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
+  "customUnitLabel": "vrzel v zaposlovanju med invalidi in invalidi",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
