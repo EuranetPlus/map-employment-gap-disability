@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "X'inhi d-diskrepanza fl-impjiegi bejn persuni b'diżabilità u dawk mingħajrha?",
+  "subtitle": "Fl-2024, id-diskrepanza fl-impjiegi bejn iċ-ċittadini tal-UE b'diżabilità u mingħajrha tammonta għal 24%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Id-diskrepanza fl-impjiegi bejn l-irġiel u n-nisa fil-popolazzjoni ġenerali u l-popolazzjoni ġenerali u l-persuni b'diżabilità tirreferi għall-grupp ta' età ta' bejn l-20 u l-64 sena. Id-dejta għal-Lussemburgu hija mill-2022.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat (2024)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "id-diskrepanza fl-impjiegi bejn persuni b'diżabilità u mingħajrha",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
