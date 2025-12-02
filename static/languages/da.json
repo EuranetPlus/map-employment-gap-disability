@@ -1,13 +1,12 @@
 {
-  "title": "Hvilke EU-lande har de bedste beskæftigelsesmuligheder?",
-  "subtitle": "Fremtidig vækst i beskæftigelsen i disse lande i 2022-2035 anslås til 5,6 %.",
+  "title": "Hvad er forskellen i beskæftigelse mellem mennesker med og uden handicap?",
+  "subtitle": "I 2024 udgør beskæftigelsesforskellen mellem EU-borgere med og uden handicap 24 %.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Beskæftigelsesforskellen mellem mænd og kvinder i den samlede befolkning og den samlede befolkning og personer med handicap refererer til aldersgruppen 20-64. Dataene for Luxembourg er fra 2022.",
   "textSourceDescription": "Kilde",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få adgang til data",
-  "extraInfo_DE": "Tyskland fremskynder udrulningen af vedvarende energi, sigter mod 80 % ren strøm inden 2030",
-  "extraInfo_FR": "Det franske parlament godkender lovforslaget om større immigrationsreformer under landsdækkende protester",
-  "legend1": "Ingen tilgængelige data",
+  "textSource": "Eurostat (2024)",
+  "linkDataAccessDescription": "Få adgang til dataene",
+  "legend1": "Ingen data tilgængelige",
+  "customUnitLabel": "beskæftigelsesforskellen mellem mennesker med og uden handicap",
   "tooltipExtraInfoLabel": "Klik her"
 }
